@@ -1,4 +1,4 @@
-# 📊 Superstore Tableau Dashboard Project
+# 📊 E-Commerce & Retail Sales Data Analytics
 
 ## 📌 Project Overview
 
