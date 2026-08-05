@@ -59,6 +59,18 @@ This project presents an interactive Tableau dashboard built using the Superstor
 - Dashboard 3.png
 
 ---
+---
+
+# 📷 Dashboard Preview
+
+## Dashboard 1
+![Dashboard 1](Dashboard%201.png.png)
+
+## Dashboard 2
+![Dashboard 2](Dashboard%202.png.png)
+
+## Dashboard 3
+![Dashboard 3](Dashboard%203.png.png)
 
 ## 👨‍💻 Author
 
